@@ -1,5 +1,7 @@
+My NATO alphabet knowledge:  alfa, bravo, charlie, delta, echo, foxtrot, golf, hotel, ... ? ... india!
+
 # starter-alfa
-starter test repo
+starter repo
 
 ## second-level
 
